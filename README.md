@@ -16,3 +16,11 @@
 
 
 <img width="529" alt="image" src="https://github.com/Pratyusha3Purdue/SQL-basedTracking/assets/141969918/95138a9c-1f8e-41b8-a3c1-a7acc9378438">
+
+<img width="416" alt="image" src="https://github.com/Pratyusha3Purdue/SQL-Based-Performance-Tracking/assets/141969918/60bfd29a-0ef2-43c6-ae06-6cd558373527">
+
+
+
+**Business Application:** The result of this first query helps in understanding the top performing countries in terms of leads generated, Which helps them decide on where to focus most of the marketing budget
+
+While the second query gives the month wise performance of each marketing member, which can help identify the best performers and also the consistency level in performances.
