@@ -21,6 +21,6 @@
 
 
 
-**Business Application:** The result of this first query helps in understanding the top performing countries in terms of leads generated, Which helps them decide on where to focus most of the marketing budget
+**Business Applications:** The result of this first query helps in understanding the top performing countries in terms of leads generated, Which helps them decide on where to focus most of the marketing budget
 
 While the second query gives the month wise performance of each marketing member, which can help identify the best performers and also the consistency level in performances.
