@@ -1,5 +1,6 @@
 # SQL-based Business Performance Tracking
-####  Migrate Excel database of Market Data Forecast to SQL database to enhance data integrity, security, &amp; accessibility. Implement an SQL-based performance evaluation system, tracking and reporting mechanisms to monitor performance  growth rate for both content creation and marketing activities.
+####  1. Migrate the Excel database of Market Data Forecast to SQL database to enhance data integrity, security, &amp; accessibility. 
+#### 2.Implement an SQL-based performance evaluation system, tracking and reporting mechanisms to monitor performance  growth rate for content creation and marketing activities.
 
 ## Understanding the Business
 
